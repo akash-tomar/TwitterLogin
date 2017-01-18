@@ -1,4 +1,4 @@
-package com.iot.hmb.twitterapp;
+package com.akash.android.twitterapp;
 
 import org.junit.Test;
 

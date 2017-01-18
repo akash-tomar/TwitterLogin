@@ -1,4 +1,4 @@
-package com.iot.hmb.twitterapp;
+package com.akash.android.twitterapp;
 
 import android.content.Intent;
 import android.os.Bundle;

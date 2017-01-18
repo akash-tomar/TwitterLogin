@@ -1,4 +1,4 @@
-package com.iot.hmb.twitterapp;
+package com.akash.android.twitterapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
